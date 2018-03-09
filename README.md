@@ -10,7 +10,7 @@ and the worked area cannot exceed the total are of the parcel.
 - Yii 2.0
 - yii\jui\DatePicker
 - MySQL
-- HTML,CSS,JS
+- HTML, CSS, JS
 
 # Installation 
 * We need xampp with php version 7.0 
