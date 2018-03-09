@@ -1,4 +1,4 @@
-# workingParcel yii 2.0 framework project
+# WorkingParcel yii 2.0 framework project
 #### Working parcel is a mini project which is written via GII - a design tool provided by yii 2.0 which can generate 
 #### CRUD operations the project itself has the following implemented:
 1. We Can create parcels which has "name" , "culture" - which we grow on it and a "total area" in square meters.
@@ -7,10 +7,13 @@
 and the worked area cannot exceed the total are of the parcel. 
 4. We have filters for parcel name,culture,date worked,tractor name .
 # Used Technologies
+- Yii 2.0
+- yii\jui\DatePicker
+- MySql
+
 # Installation 
 we need xampp with php version 7.0 
 * after cloning the repo search for SQL file in
 * \workingParcel\workingParcel\SQL_import\minprj.sql
 * in the console go to you project directory and type :php yii serve
-Starting point
-http://localhost:8080/index.php?r=worked-parcel
+Starting point http://localhost:8080/index.php?r=worked-parcel
