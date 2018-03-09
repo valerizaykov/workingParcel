@@ -1,4 +1,4 @@
-# workingParcel
+# workingParcel yii 2.0 framework project
 we need xampp with php version 7.0 
 after cloning the repo search for SQL file in
 \workingParcel\workingParcel\SQL_import\minprj.sql
