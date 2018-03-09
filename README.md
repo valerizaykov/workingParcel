@@ -13,7 +13,7 @@ and the worked area cannot exceed the total are of the parcel.
 - JS
 
 # Installation 
-we need xampp with php version 7.0 
+* we need xampp with php version 7.0 
 * after cloning the repo search for SQL file in
 * \workingParcel\workingParcel\SQL_import\minprj.sql
 * in the console go to you project directory and type :php yii serve
